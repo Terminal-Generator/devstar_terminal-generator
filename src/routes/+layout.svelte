@@ -7,6 +7,7 @@
 	import { Footer, FooterCopyright, FooterLinkGroup, FooterLink } from 'flowbite-svelte';
 	import { DarkMode } from 'flowbite-svelte';
 	export let data;
+	
 </script>
 
 <svelte:head>
