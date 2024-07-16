@@ -1,0 +1,23 @@
+{
+    "name": "sql converter",
+    "description":"Coverts .sql into csv , xlsx and more ",
+    "contributors": [{
+        "name": "shristi",
+        "githubId": "Shri6apr"
+    }, {
+        "name": "",
+        "githubId": ""
+    },
+    {
+        "name": "",
+        "githubId": ""
+    },
+    {
+        "name": "",
+        "githubId": ""
+    },
+    {
+        "name": "",
+        "githubId": ""
+    }]
+}
