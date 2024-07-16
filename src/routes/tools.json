@@ -292,12 +292,12 @@
         ]
     },
     "sql-converter": {
-        "name": "sql-converter",
+        "name": "sql converter",
         "link": "/sql-converter",
-        "description": "Converts sql file into xlsx,MySQL etc  ",
+        "description": "Coverts .sql into csv , xlsx and more ",
         "contributors": [
             {
-                "name": "Shristi Kushwaha",
+                "name": "shristi",
                 "githubId": "Shri6apr"
             },
             {
